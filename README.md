@@ -5,5 +5,7 @@
 #### 单个项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=April-thirty-one&repo=my-nvim)](https://github.com/April-thirty-one/my-nvim)
 
+[![data structures](https://github-readme-stats.vercel.app/api/pin/?username=April-thirty-one&repo=data_structures&&show_owner=true)](https://github.com/April-thirty-one/data_structures)
+
 #### 所有项目所用的语言排名
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=April-thirty-one)]
